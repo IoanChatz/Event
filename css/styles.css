@@ -1,0 +1,11 @@
+.btn{
+    background-color: rgb(9, 9, 160);
+    border: 1px solid darkslateblue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
